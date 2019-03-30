@@ -10,9 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Shere Khan was the tiger who lived near the Waingunga River, twenty miles away',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'He rang the bell, and asked, "Is Mr. Bowen at home'
+  'example4':
+      'Mrs. Dallas drew up a little table, and Bubbles brought Dimple's best set of dishes, and with a clean cloth spread on first, the dishes were arranged.'
 };
 
 function status(statusText) {
