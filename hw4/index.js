@@ -14,8 +14,7 @@ const examples = {
   'example3':
       'He rang the bell, and asked, "Is Mr. Bowen at home'
   'example4':
-      'Mrs. Dallas drew up a little table, and Bubbles brought Dimple's best set of dishes, and with a clean cloth spread on first, the dishes were arranged.'
-};
+      'Mrs. Dallas drew up a little table, and Bubbles brought Dimple'
 
 function status(statusText) {
   console.log(statusText);
