@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Marry , Sir , Nose - painting , Sleepe , and Vrine .',
   'example2':
-      'Shere Khan was the tiger who lived near the Waingunga River, twenty miles away',
+      'Epaminondas , what you got on the end of that string ?',
   'example3':
-      'He rang the bell, and asked, Is Mr. Bowen at home',
+      'Then followed the Knave of Hearts , carrying the Kings crown on a crimson velvet cushion ; and , last of all this grand procession , came THE KING AND QUEEN OF HEARTS .',
   'example4':
-      'Mrs. Dallas drew up a little table, and Bubbles brought Dimple' }
+      'Upon entering the place I found a number of young seamen gathered about a table , examining by a dim light divers specimens of SKRIMSHANDER .' }
 
 function status(statusText) {
   console.log(statusText);
