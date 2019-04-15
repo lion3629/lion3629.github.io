@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.'
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Shere Khan was the tiger who lived near the Waingunga River, twenty miles away'
+      'Shere Khan was the tiger who lived near the Waingunga River, twenty miles away',
   'example3':
-      'He rang the bell, and asked, Is Mr. Bowen at home'
+      'He rang the bell, and asked, Is Mr. Bowen at home',
   'example4':
       'Mrs. Dallas drew up a little table, and Bubbles brought Dimple'
 
