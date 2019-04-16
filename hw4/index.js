@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Then followed the Knave of Hearts , carrying the Kings crown on a crimson velvet cushion ; and , last of all this grand procession , came THE KING AND QUEEN OF HEARTS .',
   'example4':
-      'Upon entering the place I found a number of young seamen gathered about a table , examining by a dim light divers specimens of SKRIMSHANDER .' }
+      'There now is your insular city of the Manhattoes , belted round by wharves as Indian isles by coral reefs -- commerce surrounds it with her surf .' }
 
 function status(statusText) {
   console.log(statusText);
